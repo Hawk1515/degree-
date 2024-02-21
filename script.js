@@ -9,12 +9,14 @@ if (a % 2 == 0) {
     alert("toq")
 }
 
-alert("2-uy ishi")
-// let d = +prompt("sonnini kiriting")
-// let b = +prompt("darajani kiriting")
-// let f = 1
-// for (let i = 0; i < b; i++) {
-//     f = d
-// }
-// alert(f);
+alert("2-uy ishi ¯\_(ツ)_/¯   "  )
+let num = +prompt("son kiriting")
+let deg = +prompt("istalgan darajani kiriting")
+let num2 = 1
+for (let i = 0; i < deg ; i++) {
+ num2=num2*num
+}
+alert(num2)
+
+
 
